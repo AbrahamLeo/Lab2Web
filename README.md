@@ -22,9 +22,9 @@ Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut:
 
 ### 4. Membuat CSS Eksternal 
 Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut. 
-![Syntax](8.png) <br>
+![Syntax](7.png) <br>
 Kemudian tambahkan tag <link> untuk merujuk file css yang sudah dibuat pada bagian <head> 
-![Source](7.png) <br>
+![Source](8.png) <br>
 Dan inilah perubahannya:
 ![Hasil](9.png) <br>
 
